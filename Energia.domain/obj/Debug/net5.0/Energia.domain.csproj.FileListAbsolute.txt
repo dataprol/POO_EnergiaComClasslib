@@ -1,0 +1,12 @@
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\bin\Debug\net5.0\Energia.domain.deps.json
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\bin\Debug\net5.0\Energia.domain.dll
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\bin\Debug\net5.0\ref\Energia.domain.dll
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\bin\Debug\net5.0\Energia.domain.pdb
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.csproj.AssemblyReference.cache
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.AssemblyInfoInputs.cache
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.AssemblyInfo.cs
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.csproj.CoreCompileInputs.cache
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.dll
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\ref\Energia.domain.dll
+C:\Users\datap\Dev\C#\POO_CSHARP\EnergiaClasslib\energia.domain\obj\Debug\net5.0\Energia.domain.pdb
